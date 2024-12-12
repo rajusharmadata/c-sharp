@@ -1,0 +1,14 @@
+/home/x/code/c#/obj/Debug/net9.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/code/c#/obj/Debug/net9.0/c#.AssemblyInfoInputs.cache
+/home/x/code/c#/obj/Debug/net9.0/c#.AssemblyInfo.cs
+/home/x/code/c#/obj/Debug/net9.0/c#.csproj.CoreCompileInputs.cache
+/home/x/code/c#/bin/Debug/net9.0/c#
+/home/x/code/c#/bin/Debug/net9.0/c#.deps.json
+/home/x/code/c#/bin/Debug/net9.0/c#.runtimeconfig.json
+/home/x/code/c#/bin/Debug/net9.0/c#.dll
+/home/x/code/c#/bin/Debug/net9.0/c#.pdb
+/home/x/code/c#/obj/Debug/net9.0/c#.dll
+/home/x/code/c#/obj/Debug/net9.0/refint/c#.dll
+/home/x/code/c#/obj/Debug/net9.0/c#.pdb
+/home/x/code/c#/obj/Debug/net9.0/c#.genruntimeconfig.cache
+/home/x/code/c#/obj/Debug/net9.0/ref/c#.dll
