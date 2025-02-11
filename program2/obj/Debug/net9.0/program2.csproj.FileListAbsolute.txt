@@ -1,0 +1,15 @@
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.AssemblyInfoInputs.cache
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.AssemblyInfo.cs
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.csproj.CoreCompileInputs.cache
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.sourcelink.json
+/home/x/Resources/c-sharp/program2/bin/Debug/net9.0/program2
+/home/x/Resources/c-sharp/program2/bin/Debug/net9.0/program2.deps.json
+/home/x/Resources/c-sharp/program2/bin/Debug/net9.0/program2.runtimeconfig.json
+/home/x/Resources/c-sharp/program2/bin/Debug/net9.0/program2.dll
+/home/x/Resources/c-sharp/program2/bin/Debug/net9.0/program2.pdb
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.dll
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/refint/program2.dll
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.pdb
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/program2.genruntimeconfig.cache
+/home/x/Resources/c-sharp/program2/obj/Debug/net9.0/ref/program2.dll
