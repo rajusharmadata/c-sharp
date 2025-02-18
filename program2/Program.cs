@@ -7,10 +7,10 @@ namespace radea
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            
+
             // Corrected way to call the method
             first.print();
-             play.printplayer();  // No need to create an object since print() is static.
+            play.printplayer();  // No need to create an object since print() is static.
         }
     }
 

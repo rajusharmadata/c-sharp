@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progrm4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d3775d70a7cd7362531fcf3b7288d9e164e464")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+953ea613a0cbb98647938c24bac57c596912e8c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("progrm4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progrm4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
