@@ -16,8 +16,12 @@ namespace Raju // providing memory space for program body
 
        string[]cars;
        cars = new string[] {"volvo","raju ", "my car"};
-       Console.WriteLine(cars[2]);
-
+       //Console.WriteLine(cars[2]);
+      
+      // using for loop
+      for(int i = 0; i<cars.Length;i++){
+        Console.WriteLine(cars[i]);
+      }
 
         }
     }
