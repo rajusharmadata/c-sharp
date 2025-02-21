@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progrm8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c94ee3bceb3e723d9202eed79261b5d4a351e0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40e20cba6516136246752c97f9b528a1bafdd4d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("progrm8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progrm8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

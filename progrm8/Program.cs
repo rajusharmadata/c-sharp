@@ -1,7 +1,9 @@
 ﻿using System;// This contain console functiona
 namespace Raju // providing memory space for program body 
-using System.Linq;
+
 {
+
+
     class program // for storing  recalling object ,method and data
     {
         static void Main(string[] args) // for convert any undefind data to string 
@@ -33,15 +35,10 @@ using System.Linq;
 
 
         int [] arr = {1,7,8,7,6,2,3};
-        // Array.Sort(arr);
-        // foreach(int i in arr){
-        //     Console.WriteLine(arr);
-        // }
-
-        // Console.WriteLine(arr.max());
-        //  Console.WriteLine(arr.min());
-        //   Console.WriteLine(arr.sum());
-
+        Array.Sort(arr);
+        foreach(int i in arr){
+            Console.WriteLine(i);
+        }
 
      
 
