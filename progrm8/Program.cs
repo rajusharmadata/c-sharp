@@ -19,9 +19,9 @@ namespace Raju // providing memory space for program body
        //Console.WriteLine(cars[2]);
       
       // using for loop
-      for(int i = 0; i<cars.Length;i++){
-        Console.WriteLine(cars[i]);
-      }
+    //   for(int i = 0; i<cars.Length;i++){
+    //     Console.WriteLine(cars[i]);
+    //   }
 
         }
     }
