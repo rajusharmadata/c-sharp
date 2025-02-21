@@ -1,0 +1,15 @@
+/home/x/Resources/c-sharp/progrm8/bin/Debug/net9.0/progrm8
+/home/x/Resources/c-sharp/progrm8/bin/Debug/net9.0/progrm8.deps.json
+/home/x/Resources/c-sharp/progrm8/bin/Debug/net9.0/progrm8.runtimeconfig.json
+/home/x/Resources/c-sharp/progrm8/bin/Debug/net9.0/progrm8.dll
+/home/x/Resources/c-sharp/progrm8/bin/Debug/net9.0/progrm8.pdb
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.AssemblyInfoInputs.cache
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.AssemblyInfo.cs
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.csproj.CoreCompileInputs.cache
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.sourcelink.json
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.dll
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/refint/progrm8.dll
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.pdb
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/progrm8.genruntimeconfig.cache
+/home/x/Resources/c-sharp/progrm8/obj/Debug/net9.0/ref/progrm8.dll
