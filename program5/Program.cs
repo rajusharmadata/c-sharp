@@ -8,7 +8,7 @@ namespace std
         {
             // Math library explor 
             Console.WriteLine(Math.Min(4, 5));// Return the minmum value 
-            Console.WrmiteLine(Math.Max(4, 5));// Return the Max value v
+            Console.WriteLine(Math.Max(4, 5));// Return the Max value v
             Console.WriteLine(Math.Pow(4, 5));// Return the power 
             Console.WriteLine(Math.Floor(4.5));// Return the Absolute value 
             Console.WriteLine(Math.Exp(4.5));// Return the exp
