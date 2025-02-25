@@ -1,0 +1,15 @@
+/home/x/Resources/c-sharp/program13/bin/Debug/net9.0/program13
+/home/x/Resources/c-sharp/program13/bin/Debug/net9.0/program13.deps.json
+/home/x/Resources/c-sharp/program13/bin/Debug/net9.0/program13.runtimeconfig.json
+/home/x/Resources/c-sharp/program13/bin/Debug/net9.0/program13.dll
+/home/x/Resources/c-sharp/program13/bin/Debug/net9.0/program13.pdb
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.AssemblyInfoInputs.cache
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.AssemblyInfo.cs
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.csproj.CoreCompileInputs.cache
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.sourcelink.json
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.dll
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/refint/program13.dll
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.pdb
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/program13.genruntimeconfig.cache
+/home/x/Resources/c-sharp/program13/obj/Debug/net9.0/ref/program13.dll
