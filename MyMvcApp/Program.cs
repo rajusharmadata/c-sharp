@@ -14,16 +14,19 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseStaticFiles(); // Ensure static files are served
 app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapStaticAssets();
-
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
+Console.WriteLine("Application started. Listening on:");
+foreach (var address in app.Urls)
+{
+    Console.WriteLine($" - {address}");
+}
 
 app.Run();

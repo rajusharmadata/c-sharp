@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/MyMvcApp.bwv5lkjv1g.bundle.scp.css"
     },
     {
+      "Id": "/home/x/Resources/c-sharp/MyMvcApp/wwwroot/css/home.css",
+      "PackagePath": "staticwebassets/css/home.css"
+    },
+    {
       "Id": "/home/x/Resources/c-sharp/MyMvcApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

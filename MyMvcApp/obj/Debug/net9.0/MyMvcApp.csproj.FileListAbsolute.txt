@@ -18,7 +18,6 @@
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/scopedcss/bundle/MyMvcApp.styles.css
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css
-/home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/compressed/5ferloct44-lugek5hnai.gz
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/compressed/pfpmh99ads-61n19gt1b8.gz
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/compressed/ino9o44bup-fr7q2aak1r.gz
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/compressed/lfmd92xzan-bqjiyaj88i.gz
@@ -96,3 +95,5 @@
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/MyMvcApp.pdb
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/MyMvcApp.genruntimeconfig.cache
 /home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/ref/MyMvcApp.dll
+/home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/compressed/vrgocnpd2k-7ng1bjrmi0.gz
+/home/x/Resources/c-sharp/MyMvcApp/obj/Debug/net9.0/compressed/5ferloct44-5od91afp4y.gz
