@@ -1,0 +1,15 @@
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.AssemblyInfoInputs.cache
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.AssemblyInfo.cs
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.csproj.CoreCompileInputs.cache
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.sourcelink.json
+/home/x/Resources/c-sharp/program15/bin/Debug/net9.0/program15
+/home/x/Resources/c-sharp/program15/bin/Debug/net9.0/program15.deps.json
+/home/x/Resources/c-sharp/program15/bin/Debug/net9.0/program15.runtimeconfig.json
+/home/x/Resources/c-sharp/program15/bin/Debug/net9.0/program15.dll
+/home/x/Resources/c-sharp/program15/bin/Debug/net9.0/program15.pdb
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.dll
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/refint/program15.dll
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.pdb
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/program15.genruntimeconfig.cache
+/home/x/Resources/c-sharp/program15/obj/Debug/net9.0/ref/program15.dll
