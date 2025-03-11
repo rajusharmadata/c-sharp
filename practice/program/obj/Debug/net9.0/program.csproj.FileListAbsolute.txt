@@ -1,0 +1,15 @@
+/home/x/Resources/c-sharp/practice/program/bin/Debug/net9.0/program
+/home/x/Resources/c-sharp/practice/program/bin/Debug/net9.0/program.deps.json
+/home/x/Resources/c-sharp/practice/program/bin/Debug/net9.0/program.runtimeconfig.json
+/home/x/Resources/c-sharp/practice/program/bin/Debug/net9.0/program.dll
+/home/x/Resources/c-sharp/practice/program/bin/Debug/net9.0/program.pdb
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.AssemblyInfoInputs.cache
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.AssemblyInfo.cs
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.csproj.CoreCompileInputs.cache
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.sourcelink.json
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.dll
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/refint/program.dll
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.pdb
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/program.genruntimeconfig.cache
+/home/x/Resources/c-sharp/practice/program/obj/Debug/net9.0/ref/program.dll
