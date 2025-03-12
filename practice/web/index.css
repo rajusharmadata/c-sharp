@@ -1,0 +1,32 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+
+}
+.card{
+    width:300px;
+    padding: 20px;
+    background-color: peachpuff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.card:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.imgage-contaner{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+   
+}
+img{
+    border-radius: 10px;
+}
