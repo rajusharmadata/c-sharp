@@ -1,0 +1,15 @@
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfoInputs.cache
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfo.cs
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.sourcelink.json
+/home/x/Resources/c-sharp/polymorphism/bin/Debug/net9.0/polymorphism
+/home/x/Resources/c-sharp/polymorphism/bin/Debug/net9.0/polymorphism.deps.json
+/home/x/Resources/c-sharp/polymorphism/bin/Debug/net9.0/polymorphism.runtimeconfig.json
+/home/x/Resources/c-sharp/polymorphism/bin/Debug/net9.0/polymorphism.dll
+/home/x/Resources/c-sharp/polymorphism/bin/Debug/net9.0/polymorphism.pdb
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.dll
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/refint/polymorphism.dll
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.pdb
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/polymorphism.genruntimeconfig.cache
+/home/x/Resources/c-sharp/polymorphism/obj/Debug/net9.0/ref/polymorphism.dll
