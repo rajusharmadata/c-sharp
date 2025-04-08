@@ -1,0 +1,15 @@
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.AssemblyInfoInputs.cache
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.AssemblyInfo.cs
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.csproj.CoreCompileInputs.cache
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.sourcelink.json
+/home/x/Resources/c-sharp/Array/bin/Debug/net9.0/Array
+/home/x/Resources/c-sharp/Array/bin/Debug/net9.0/Array.deps.json
+/home/x/Resources/c-sharp/Array/bin/Debug/net9.0/Array.runtimeconfig.json
+/home/x/Resources/c-sharp/Array/bin/Debug/net9.0/Array.dll
+/home/x/Resources/c-sharp/Array/bin/Debug/net9.0/Array.pdb
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.dll
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/refint/Array.dll
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.pdb
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/Array.genruntimeconfig.cache
+/home/x/Resources/c-sharp/Array/obj/Debug/net9.0/ref/Array.dll
