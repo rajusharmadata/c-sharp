@@ -4,7 +4,16 @@ using Day1.Models;
 
 namespace Day1.Controllers;
 
-public class HomeController : Controller
+public class HomeController : Controller // inhert the conter class in homeController
+//{
+    // private readonly ILogger<HomeController> _logger; // logger is used to log the information
+    // public HomeController(ILogger<HomeController> logger) // constructor of the class
+    // {
+    //     _logger = logger; // assign the logger to the private variable
+    // }
+    // public IActionResult Index() // action method to return the index view
+    // {
+    //     return View(); // return the view
 {
     private readonly ILogger<HomeController> _logger;
 
